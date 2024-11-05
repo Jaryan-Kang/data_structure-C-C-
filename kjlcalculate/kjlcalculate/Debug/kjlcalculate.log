@@ -1,0 +1,5 @@
+﻿  kjlcalculate.cpp
+C:\Users\DELL\Desktop\数据结构\kjlcalculate\kjlcalculate\kjlcalculate.cpp(10,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+C:\Users\DELL\Desktop\数据结构\kjlcalculate\kjlcalculate\kjlcalculate.cpp(109): warning C4715: “change”: 不是所有的控件路径都返回值
+  kjlcalculate.vcxproj -> C:\Users\DELL\Desktop\数据结构\kjlcalculate\Debug\kjlcalculate.exe
